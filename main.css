@@ -3,3 +3,13 @@ div {
   border: 1px solid aquamarine;
   padding: 30px;
 }
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+}
+h2,h3 {
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+p,ul,li {
+	font-family: 'Source Sans Pro', sans-serif;
+}
